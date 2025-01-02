@@ -1,4 +1,4 @@
-# ShopFriendlyBotExcel
+# ShopFriendlyBot Using Excel
 Here's a **README** file for your Excel program, explaining its functionality, how to use it, and how it works. You can customize this further based on the specifics of your project.
 
 ---
@@ -17,7 +17,6 @@ In today's fast-paced world, people prefer convenience and efficiency while shop
 
 - **Microsoft Excel**: The primary platform for the program.
 - **VBA (Visual Basic for Applications)**: Used for automating tasks and creating the interactive user interface.
-- **Links**: The program pulls relevant shopping links based on the user's preferences, providing quick access to phone options.
 
 ## **How to Start Using This Program**
 
@@ -44,7 +43,7 @@ The program will prompt the user for specific information:
    - The user will select their preferred brands.
    
 3. **What is your price range?**
-   - The user will enter the minimum and maximum price they are willing to spend.
+   - The user will enter the maximum price they are willing to spend.
 
 After collecting this information, the program will search for the relevant links and display them in a small box.
 
@@ -70,15 +69,6 @@ After collecting this information, the program will search for the relevant link
 - **Customizable**: The program can be easily customized to include different types of products, brands, or categories.
 - **Automated Process**: The user only needs to input their preferences once, and the program handles the rest.
   
-## **Example Output**
-
-Once the program runs, it might output links like:
-
-- **Phone 1**: [Link to Phone 1](https://example.com/phone1)
-- **Phone 2**: [Link to Phone 2](https://example.com/phone2)
-- **Phone 3**: [Link to Phone 3](https://example.com/phone3)
-
-Each link will be displayed in a small box, and the user can click on it to view more details.
 
 ## **Important Notes**
 
@@ -100,8 +90,3 @@ If you need to adjust the program (e.g., to change the preferences it asks for, 
 
 This Excel-based phone shopping bot is a simple and efficient tool for anyone looking to automate the process of searching for phones based on personal preferences. By utilizing VBA, the program provides an interactive and easy-to-use interface that guides the user through the decision-making process.
 
-If you have any questions or need further assistance, feel free to contact me!
-
----
-
-This README will give users a clear understanding of how to use and customize the program. Let me know if you need any further modifications or details!
